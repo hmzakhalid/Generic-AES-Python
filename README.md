@@ -51,10 +51,10 @@ python aes.py -c g -s 128
 ```
 
 # Encyption Speed
-Throughput:  0.025991468768354727 MB/sec
+Throughput:  0.026 MB/sec
 
 # Decryption Speed
-Throughput:  0.026324802180452318 MB/sec
+Throughput:  0.026 MB/sec
 
 # Features
 
