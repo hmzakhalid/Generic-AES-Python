@@ -1,5 +1,5 @@
 # AES Implementation in Python
-### Author: Hamza Khalid
+### Author: [Hamza Khalid]: https://github.com/hmzakhalid
 
 ## How to run the code
 You can run the code through the terminal by using the following command:
